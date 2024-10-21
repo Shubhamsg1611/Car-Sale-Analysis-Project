@@ -1,7 +1,7 @@
 # Car-Sale-Python-Data-Analysis-Project
 ![car_project_cover](https://github.com/Shubhamsg1611/Shubhamsg1611-Car-Sale-Python-Data-Analysis-Project/blob/main/Car%20Project%20Cover.jpeg)
 
-# Overview of the Vehicle Sales Analysis Project:
+# Overview:
 The primary goal of this project is to analyze a dataset containing information about various vehicles to derive insights into sales patterns, consumer preferences, and the factors that influence vehicle sales. By examining relationships between different attributes, we aim to understand market trends and help inform decision-making for manufacturers, marketers, and stakeholders in the automotive industry.
 
 ### Dataset Description:
